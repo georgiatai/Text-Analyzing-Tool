@@ -1,4 +1,4 @@
-This CS49 final project explores the usage of NLP libraries and streamlit. The app includes the following features:\n
+This CS49 final project explores the usage of NLP libraries and streamlit. The app includes the following features:
 1. Word Cloud
 2. Text Summarization
 3. N-gram Analysis (visualized by Word Cloud)
